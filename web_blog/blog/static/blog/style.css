@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#sidebar {
+    float: left;
+    width: 200px;
+}
+#content {
+    margin-left: 220px;
+}
+h2 {
+    color: #333;
+}
+p {
+    color: #666;
+}
